@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="958.79952pt" height="1102.799509pt" viewBox="0 0 958.79952 1102.799509" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-07T16:49:51.267996</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1102.799509 
+L 958.79952 1102.799509 
+L 958.79952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 133.524062 275.509054 
+L 474.64776 275.509054 
+L 474.64776 62.629113 
+L 133.524062 62.629113 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 133.524062 275.509054 
+L 133.524062 62.629113 
+" clip-path="url(#p37c0e1a6e1)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m4f3cf19ab4" d="M 0 0 
+L 0 3.5 
+" style="stroke: #333333; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="133.524062" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="133.524062" y="288.63046" transform="rotate(-0 133.524062 288.63046)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 297.52584 275.509054 
+L 297.52584 62.629113 
+" clip-path="url(#p37c0e1a6e1)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="297.52584" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="297.52584" y="288.63046" transform="rotate(-0 297.52584 288.63046)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 461.527618 275.509054 
+L 461.527618 62.629113 
+" clip-path="url(#p37c0e1a6e1)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="461.527618" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="461.527618" y="288.63046" transform="rotate(-0 461.527618 288.63046)">1.0</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="304.085911" y="301.032335" transform="rotate(-0 304.085911 301.032335)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_5">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="259.043208" transform="rotate(-0 129.524062 259.043208)">C···C contacts ≤ 4.0 Å</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_6">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="230.072068" transform="rotate(-0 129.524062 230.072068)">Lateral slip</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="201.100927" transform="rotate(-0 129.524062 201.100927)">C···C contacts ≤ 3.6 Å</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_8">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="172.145255" transform="rotate(-0 129.524062 172.145255)">Minimum overlap fraction</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11"/>
+     <g id="text_9">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="143.158646" transform="rotate(-0 129.524062 143.158646)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12"/>
+     <g id="text_10">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="114.187506" transform="rotate(-0 129.524062 114.187506)">Minimum C···C distance</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13"/>
+     <g id="text_11">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="85.216365" transform="rotate(-0 129.524062 85.216365)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 133.524062 265.832693 
+L 152.596001 265.832693 
+L 152.596001 246.132317 
+L 133.524062 246.132317 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 133.524062 236.861552 
+L 154.515152 236.861552 
+L 154.515152 217.161177 
+L 133.524062 217.161177 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 133.524062 207.890412 
+L 175.074792 207.890412 
+L 175.074792 188.190036 
+L 133.524062 188.190036 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 133.524062 178.919271 
+L 179.362269 178.919271 
+L 179.362269 159.218896 
+L 133.524062 159.218896 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 133.524062 149.948131 
+L 295.24361 149.948131 
+L 295.24361 130.247755 
+L 133.524062 130.247755 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 133.524062 120.97699 
+L 310.697928 120.97699 
+L 310.697928 101.276615 
+L 133.524062 101.276615 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 133.524062 92.00585 
+L 461.527618 92.00585 
+L 461.527618 72.305474 
+L 133.524062 72.305474 
+z
+" clip-path="url(#p37c0e1a6e1)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 133.524062 275.509054 
+L 474.64776 275.509054 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="89.177982" y="52.164853" transform="rotate(-0 89.177982 52.164853)">(a)</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #222222; font: 700 15px 'Calibri'; text-anchor: middle" x="304.085911" y="17.395313" transform="rotate(-0 304.085911 17.395313)">Extra Trees</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="304.085911" y="54.629113" transform="rotate(-0 304.085911 54.629113)">|t_FO|</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_11">
+    <path d="M 610.475822 275.509054 
+L 951.59952 275.509054 
+L 951.59952 62.629113 
+L 610.475822 62.629113 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_14">
+      <path d="M 610.475822 275.509054 
+L 610.475822 62.629113 
+" clip-path="url(#pb4aaac3d02)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="610.475822" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="610.475822" y="288.63046" transform="rotate(-0 610.475822 288.63046)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_16">
+      <path d="M 774.4776 275.509054 
+L 774.4776 62.629113 
+" clip-path="url(#pb4aaac3d02)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="774.4776" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="774.4776" y="288.63046" transform="rotate(-0 774.4776 288.63046)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_18">
+      <path d="M 938.479378 275.509054 
+L 938.479378 62.629113 
+" clip-path="url(#pb4aaac3d02)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="938.479378" y="275.509054" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="938.479378" y="288.63046" transform="rotate(-0 938.479378 288.63046)">1.0</text>
+     </g>
+    </g>
+    <g id="text_18">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="781.037671" y="301.032335" transform="rotate(-0 781.037671 301.032335)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_8">
+     <g id="line2d_20"/>
+     <g id="text_19">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="259.043208" transform="rotate(-0 606.475822 259.043208)">Contact-distance spread</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21"/>
+     <g id="text_20">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="230.072068" transform="rotate(-0 606.475822 230.072068)">Mean BLA</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_22"/>
+     <g id="text_21">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="201.100927" transform="rotate(-0 606.475822 201.100927)">Lateral slip</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_23"/>
+     <g id="text_22">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="172.129787" transform="rotate(-0 606.475822 172.129787)">Minimum C···C distance</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_24"/>
+     <g id="text_23">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="143.158646" transform="rotate(-0 606.475822 143.158646)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_25"/>
+     <g id="text_24">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="114.202974" transform="rotate(-0 606.475822 114.202974)">Minimum overlap fraction</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_26"/>
+     <g id="text_25">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="85.216365" transform="rotate(-0 606.475822 85.216365)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 610.475822 265.832693 
+L 718.994989 265.832693 
+L 718.994989 246.132317 
+L 610.475822 246.132317 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 610.475822 236.861552 
+L 726.941832 236.861552 
+L 726.941832 217.161177 
+L 610.475822 217.161177 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 610.475822 207.890412 
+L 728.154567 207.890412 
+L 728.154567 188.190036 
+L 610.475822 188.190036 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 610.475822 178.919271 
+L 737.93533 178.919271 
+L 737.93533 159.218896 
+L 610.475822 159.218896 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 610.475822 149.948131 
+L 801.129211 149.948131 
+L 801.129211 130.247755 
+L 610.475822 130.247755 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 610.475822 120.97699 
+L 828.980613 120.97699 
+L 828.980613 101.276615 
+L 610.475822 101.276615 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 610.475822 92.00585 
+L 938.479378 92.00585 
+L 938.479378 72.305474 
+L 610.475822 72.305474 
+z
+" clip-path="url(#pb4aaac3d02)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 610.475822 275.509054 
+L 951.59952 275.509054 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_26">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="566.129742" y="52.164853" transform="rotate(-0 566.129742 52.164853)">(b)</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #222222; font: 700 15px 'Calibri'; text-anchor: middle" x="781.037671" y="17.395313" transform="rotate(-0 781.037671 17.395313)">Descriptor-based MLP</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="781.037671" y="54.629113" transform="rotate(-0 781.037671 54.629113)">|t_FO|</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_20">
+    <path d="M 133.524062 539.750299 
+L 474.64776 539.750299 
+L 474.64776 326.870359 
+L 133.524062 326.870359 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_7">
+     <g id="line2d_27">
+      <path d="M 133.524062 539.750299 
+L 133.524062 326.870359 
+" clip-path="url(#p5384418274)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="133.524062" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="133.524062" y="552.871706" transform="rotate(-0 133.524062 552.871706)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_29">
+      <path d="M 297.52584 539.750299 
+L 297.52584 326.870359 
+" clip-path="url(#p5384418274)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="297.52584" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="297.52584" y="552.871706" transform="rotate(-0 297.52584 552.871706)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_31">
+      <path d="M 461.527618 539.750299 
+L 461.527618 326.870359 
+" clip-path="url(#p5384418274)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="461.527618" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="461.527618" y="552.871706" transform="rotate(-0 461.527618 552.871706)">1.0</text>
+     </g>
+    </g>
+    <g id="text_32">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="304.085911" y="565.273581" transform="rotate(-0 304.085911 565.273581)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_15">
+     <g id="line2d_33"/>
+     <g id="text_33">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="523.284454" transform="rotate(-0 129.524062 523.284454)">Plane-normal angle</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_34"/>
+     <g id="text_34">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="494.313313" transform="rotate(-0 129.524062 494.313313)">Projected π-overlap area</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35"/>
+     <g id="text_35">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="465.342173" transform="rotate(-0 129.524062 465.342173)">C···C contacts ≤ 4.0 Å</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36"/>
+     <g id="text_36">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="436.371032" transform="rotate(-0 129.524062 436.371032)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_37"/>
+     <g id="text_37">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="407.399892" transform="rotate(-0 129.524062 407.399892)">Minimum C···C distance</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_38"/>
+     <g id="text_38">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="378.428751" transform="rotate(-0 129.524062 378.428751)">Mean BLA</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_39"/>
+     <g id="text_39">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="349.455501" transform="rotate(-0 129.524062 349.455501)">Mean projected π-area</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_21">
+    <path d="M 133.524062 530.073939 
+L 153.235125 530.073939 
+L 153.235125 510.373563 
+L 133.524062 510.373563 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 133.524062 501.102798 
+L 166.204881 501.102798 
+L 166.204881 481.402422 
+L 133.524062 481.402422 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 133.524062 472.131657 
+L 167.877987 472.131657 
+L 167.877987 452.431282 
+L 133.524062 452.431282 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 133.524062 443.160517 
+L 169.947912 443.160517 
+L 169.947912 423.460141 
+L 133.524062 423.460141 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 133.524062 414.189376 
+L 175.00424 414.189376 
+L 175.00424 394.489001 
+L 133.524062 394.489001 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 133.524062 385.218236 
+L 192.596258 385.218236 
+L 192.596258 365.51786 
+L 133.524062 365.51786 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 133.524062 356.247095 
+L 461.527618 356.247095 
+L 461.527618 336.54672 
+L 133.524062 336.54672 
+z
+" clip-path="url(#p5384418274)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 133.524062 539.750299 
+L 474.64776 539.750299 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_40">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="89.177982" y="316.406099" transform="rotate(-0 89.177982 316.406099)">(c)</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="304.085911" y="318.870359" transform="rotate(-0 304.085911 318.870359)">Interaction energy</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_29">
+    <path d="M 610.475822 539.750299 
+L 951.59952 539.750299 
+L 951.59952 326.870359 
+L 610.475822 326.870359 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_10">
+     <g id="line2d_40">
+      <path d="M 610.475822 539.750299 
+L 610.475822 326.870359 
+" clip-path="url(#p4a4754095e)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="610.475822" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="610.475822" y="552.871706" transform="rotate(-0 610.475822 552.871706)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_42">
+      <path d="M 774.4776 539.750299 
+L 774.4776 326.870359 
+" clip-path="url(#p4a4754095e)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="774.4776" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="774.4776" y="552.871706" transform="rotate(-0 774.4776 552.871706)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_44">
+      <path d="M 938.479378 539.750299 
+L 938.479378 326.870359 
+" clip-path="url(#p4a4754095e)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="938.479378" y="539.750299" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="938.479378" y="552.871706" transform="rotate(-0 938.479378 552.871706)">1.0</text>
+     </g>
+    </g>
+    <g id="text_45">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="781.037671" y="565.273581" transform="rotate(-0 781.037671 565.273581)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_22">
+     <g id="line2d_46"/>
+     <g id="text_46">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="523.284454" transform="rotate(-0 606.475822 523.284454)">Projected π-overlap area</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_47"/>
+     <g id="text_47">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="494.313313" transform="rotate(-0 606.475822 494.313313)">Mean BLA</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_48"/>
+     <g id="text_48">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="465.342173" transform="rotate(-0 606.475822 465.342173)">Interplane distance</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_49"/>
+     <g id="text_49">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="436.368923" transform="rotate(-0 606.475822 436.368923)">Mean projected π-area</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_50"/>
+     <g id="text_50">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="407.399892" transform="rotate(-0 606.475822 407.399892)">Contact-distance spread</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_51"/>
+     <g id="text_51">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="378.428751" transform="rotate(-0 606.475822 378.428751)">Lateral slip</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_52"/>
+     <g id="text_52">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="349.457611" transform="rotate(-0 606.475822 349.457611)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_30">
+    <path d="M 610.475822 530.073939 
+L 759.029018 530.073939 
+L 759.029018 510.373563 
+L 610.475822 510.373563 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 610.475822 501.102798 
+L 763.940383 501.102798 
+L 763.940383 481.402422 
+L 610.475822 481.402422 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 610.475822 472.131657 
+L 771.240999 472.131657 
+L 771.240999 452.431282 
+L 610.475822 452.431282 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 610.475822 443.160517 
+L 788.908688 443.160517 
+L 788.908688 423.460141 
+L 610.475822 423.460141 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 610.475822 414.189376 
+L 816.466541 414.189376 
+L 816.466541 394.489001 
+L 610.475822 394.489001 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 610.475822 385.218236 
+L 858.646255 385.218236 
+L 858.646255 365.51786 
+L 610.475822 365.51786 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 610.475822 356.247095 
+L 938.479378 356.247095 
+L 938.479378 336.54672 
+L 610.475822 336.54672 
+z
+" clip-path="url(#p4a4754095e)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 610.475822 539.750299 
+L 951.59952 539.750299 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_53">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="566.129742" y="316.406099" transform="rotate(-0 566.129742 316.406099)">(d)</text>
+   </g>
+   <g id="text_54">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="781.037671" y="318.870359" transform="rotate(-0 781.037671 318.870359)">Interaction energy</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_38">
+    <path d="M 133.524062 803.991545 
+L 474.64776 803.991545 
+L 474.64776 591.111604 
+L 133.524062 591.111604 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_13">
+     <g id="line2d_53">
+      <path d="M 133.524062 803.991545 
+L 133.524062 591.111604 
+" clip-path="url(#pfd057dd815)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="133.524062" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="133.524062" y="817.112951" transform="rotate(-0 133.524062 817.112951)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_55">
+      <path d="M 297.52584 803.991545 
+L 297.52584 591.111604 
+" clip-path="url(#pfd057dd815)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="297.52584" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="297.52584" y="817.112951" transform="rotate(-0 297.52584 817.112951)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_57">
+      <path d="M 461.527618 803.991545 
+L 461.527618 591.111604 
+" clip-path="url(#pfd057dd815)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="461.527618" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="461.527618" y="817.112951" transform="rotate(-0 461.527618 817.112951)">1.0</text>
+     </g>
+    </g>
+    <g id="text_58">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="304.085911" y="829.514826" transform="rotate(-0 304.085911 829.514826)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_29">
+     <g id="line2d_59"/>
+     <g id="text_59">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="787.525699" transform="rotate(-0 129.524062 787.525699)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_60"/>
+     <g id="text_60">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="758.554559" transform="rotate(-0 129.524062 758.554559)">C···C contacts ≤ 4.0 Å</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_61"/>
+     <g id="text_61">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="729.583418" transform="rotate(-0 129.524062 729.583418)">Contact-distance spread</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_62"/>
+     <g id="text_62">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="700.612278" transform="rotate(-0 129.524062 700.612278)">Projected π-overlap area</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_63"/>
+     <g id="text_63">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="671.639028" transform="rotate(-0 129.524062 671.639028)">Projected π-area ratio</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_64"/>
+     <g id="text_64">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="642.669997" transform="rotate(-0 129.524062 642.669997)">Mean BLA</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_65"/>
+     <g id="text_65">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="613.696747" transform="rotate(-0 129.524062 613.696747)">Mean projected π-area</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_39">
+    <path d="M 133.524062 794.315184 
+L 139.191532 794.315184 
+L 139.191532 774.614809 
+L 133.524062 774.614809 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 133.524062 765.344044 
+L 139.700393 765.344044 
+L 139.700393 745.643668 
+L 133.524062 745.643668 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 133.524062 736.372903 
+L 145.347552 736.372903 
+L 145.347552 716.672527 
+L 133.524062 716.672527 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 133.524062 707.401762 
+L 154.006194 707.401762 
+L 154.006194 687.701387 
+L 133.524062 687.701387 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 133.524062 678.430622 
+L 156.91108 678.430622 
+L 156.91108 658.730246 
+L 133.524062 658.730246 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 133.524062 649.459481 
+L 210.571219 649.459481 
+L 210.571219 629.759106 
+L 133.524062 629.759106 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 133.524062 620.488341 
+L 461.527618 620.488341 
+L 461.527618 600.787965 
+L 133.524062 600.787965 
+z
+" clip-path="url(#pfd057dd815)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 133.524062 803.991545 
+L 474.64776 803.991545 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_66">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="89.177982" y="580.647344" transform="rotate(-0 89.177982 580.647344)">(e)</text>
+   </g>
+   <g id="text_67">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="304.085911" y="583.111604" transform="rotate(-0 304.085911 583.111604)">Spin-conserving frontier gap</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_47">
+    <path d="M 610.475822 803.991545 
+L 951.59952 803.991545 
+L 951.59952 591.111604 
+L 610.475822 591.111604 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_11">
+    <g id="xtick_16">
+     <g id="line2d_66">
+      <path d="M 610.475822 803.991545 
+L 610.475822 591.111604 
+" clip-path="url(#pa9668cc8c5)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_67">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="610.475822" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="610.475822" y="817.112951" transform="rotate(-0 610.475822 817.112951)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_68">
+      <path d="M 774.4776 803.991545 
+L 774.4776 591.111604 
+" clip-path="url(#pa9668cc8c5)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_69">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="774.4776" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="774.4776" y="817.112951" transform="rotate(-0 774.4776 817.112951)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_70">
+      <path d="M 938.479378 803.991545 
+L 938.479378 591.111604 
+" clip-path="url(#pa9668cc8c5)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_71">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="938.479378" y="803.991545" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="938.479378" y="817.112951" transform="rotate(-0 938.479378 817.112951)">1.0</text>
+     </g>
+    </g>
+    <g id="text_71">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="781.037671" y="829.514826" transform="rotate(-0 781.037671 829.514826)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_12">
+    <g id="ytick_36">
+     <g id="line2d_72"/>
+     <g id="text_72">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="787.525699" transform="rotate(-0 606.475822 787.525699)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_73"/>
+     <g id="text_73">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="758.554559" transform="rotate(-0 606.475822 758.554559)">Mean BLA</text>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_74"/>
+     <g id="text_74">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="729.583418" transform="rotate(-0 606.475822 729.583418)">C···C contacts ≤ 4.0 Å</text>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_75"/>
+     <g id="text_75">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="700.627747" transform="rotate(-0 606.475822 700.627747)">Minimum overlap fraction</text>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_76"/>
+     <g id="text_76">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="671.641137" transform="rotate(-0 606.475822 671.641137)">Plane-normal angle</text>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="line2d_77"/>
+     <g id="text_77">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="642.669997" transform="rotate(-0 606.475822 642.669997)">Projected π-overlap area</text>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="line2d_78"/>
+     <g id="text_78">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="613.696747" transform="rotate(-0 606.475822 613.696747)">Mean projected π-area</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_48">
+    <path d="M 610.475822 794.315184 
+L 671.908461 794.315184 
+L 671.908461 774.614809 
+L 610.475822 774.614809 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 610.475822 765.344044 
+L 681.421977 765.344044 
+L 681.421977 745.643668 
+L 610.475822 745.643668 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 610.475822 736.372903 
+L 695.097687 736.372903 
+L 695.097687 716.672527 
+L 610.475822 716.672527 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 610.475822 707.401762 
+L 705.275378 707.401762 
+L 705.275378 687.701387 
+L 610.475822 687.701387 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 610.475822 678.430622 
+L 711.585157 678.430622 
+L 711.585157 658.730246 
+L 610.475822 658.730246 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 610.475822 649.459481 
+L 726.88669 649.459481 
+L 726.88669 629.759106 
+L 610.475822 629.759106 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 610.475822 620.488341 
+L 938.479378 620.488341 
+L 938.479378 600.787965 
+L 610.475822 600.787965 
+z
+" clip-path="url(#pa9668cc8c5)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 610.475822 803.991545 
+L 951.59952 803.991545 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_79">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="566.129742" y="580.647344" transform="rotate(-0 566.129742 580.647344)">(f)</text>
+   </g>
+   <g id="text_80">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="781.037671" y="583.111604" transform="rotate(-0 781.037671 583.111604)">Spin-conserving frontier gap</text>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_56">
+    <path d="M 133.524062 1068.298103 
+L 474.64776 1068.298103 
+L 474.64776 855.418162 
+L 133.524062 855.418162 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_13">
+    <g id="xtick_19">
+     <g id="line2d_79">
+      <path d="M 133.524062 1068.298103 
+L 133.524062 855.418162 
+" clip-path="url(#p2ffa5f7a96)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="133.524062" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_81">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="133.524062" y="1081.419509" transform="rotate(-0 133.524062 1081.419509)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_81">
+      <path d="M 297.52584 1068.298103 
+L 297.52584 855.418162 
+" clip-path="url(#p2ffa5f7a96)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="297.52584" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_82">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="297.52584" y="1081.419509" transform="rotate(-0 297.52584 1081.419509)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_83">
+      <path d="M 461.527618 1068.298103 
+L 461.527618 855.418162 
+" clip-path="url(#p2ffa5f7a96)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="461.527618" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_83">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="461.527618" y="1081.419509" transform="rotate(-0 461.527618 1081.419509)">1.0</text>
+     </g>
+    </g>
+    <g id="text_84">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="304.085911" y="1093.821384" transform="rotate(-0 304.085911 1093.821384)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_14">
+    <g id="ytick_43">
+     <g id="line2d_85"/>
+     <g id="text_85">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="1051.830148" transform="rotate(-0 129.524062 1051.830148)">Mean projected π-area</text>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="line2d_86"/>
+     <g id="text_86">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="1022.861117" transform="rotate(-0 129.524062 1022.861117)">Contact-distance spread</text>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_87"/>
+     <g id="text_87">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="993.889976" transform="rotate(-0 129.524062 993.889976)">Lateral slip</text>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="line2d_88"/>
+     <g id="text_88">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="964.934305" transform="rotate(-0 129.524062 964.934305)">Minimum overlap fraction</text>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="line2d_89"/>
+     <g id="text_89">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="935.947695" transform="rotate(-0 129.524062 935.947695)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="line2d_90"/>
+     <g id="text_90">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="906.976555" transform="rotate(-0 129.524062 906.976555)">Minimum C···C distance</text>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="line2d_91"/>
+     <g id="text_91">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="129.524062" y="878.005414" transform="rotate(-0 129.524062 878.005414)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_57">
+    <path d="M 133.524062 1058.621742 
+L 160.490332 1058.621742 
+L 160.490332 1038.921367 
+L 133.524062 1038.921367 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 133.524062 1029.650602 
+L 161.149042 1029.650602 
+L 161.149042 1009.950226 
+L 133.524062 1009.950226 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 133.524062 1000.679461 
+L 166.323768 1000.679461 
+L 166.323768 980.979085 
+L 133.524062 980.979085 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 133.524062 971.70832 
+L 190.247336 971.70832 
+L 190.247336 952.007945 
+L 133.524062 952.007945 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 133.524062 942.73718 
+L 276.050398 942.73718 
+L 276.050398 923.036804 
+L 133.524062 923.036804 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 133.524062 913.766039 
+L 311.231461 913.766039 
+L 311.231461 894.065664 
+L 133.524062 894.065664 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 133.524062 884.794899 
+L 461.527618 884.794899 
+L 461.527618 865.094523 
+L 133.524062 865.094523 
+z
+" clip-path="url(#p2ffa5f7a96)" style="fill: #356fa8"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 133.524062 1068.298103 
+L 474.64776 1068.298103 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_92">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="89.177982" y="844.941871" transform="rotate(-0 89.177982 844.941871)">(g)</text>
+   </g>
+   <g id="text_93">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="304.085911" y="847.418162" transform="rotate(-0 304.085911 847.418162)">Corrected SOMO–SOMO energy</text>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_65">
+    <path d="M 610.475822 1068.298103 
+L 951.59952 1068.298103 
+L 951.59952 855.418162 
+L 610.475822 855.418162 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_15">
+    <g id="xtick_22">
+     <g id="line2d_92">
+      <path d="M 610.475822 1068.298103 
+L 610.475822 855.418162 
+" clip-path="url(#p4a1237d66f)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_93">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="610.475822" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_94">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="610.475822" y="1081.419509" transform="rotate(-0 610.475822 1081.419509)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_94">
+      <path d="M 774.4776 1068.298103 
+L 774.4776 855.418162 
+" clip-path="url(#p4a1237d66f)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_95">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="774.4776" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_95">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="774.4776" y="1081.419509" transform="rotate(-0 774.4776 1081.419509)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_96">
+      <path d="M 938.479378 1068.298103 
+L 938.479378 855.418162 
+" clip-path="url(#p4a1237d66f)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_97">
+      <g>
+       <use xlink:href="#m4f3cf19ab4" x="938.479378" y="1068.298103" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_96">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: middle" x="938.479378" y="1081.419509" transform="rotate(-0 938.479378 1081.419509)">1.0</text>
+     </g>
+    </g>
+    <g id="text_97">
+     <text style="font: 10px 'Calibri'; text-anchor: middle" x="781.037671" y="1093.821384" transform="rotate(-0 781.037671 1093.821384)">Relative predictive importance</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_16">
+    <g id="ytick_50">
+     <g id="line2d_98"/>
+     <g id="text_98">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="1051.847726" transform="rotate(-0 606.475822 1051.847726)">Overlap-fraction asymmetry</text>
+     </g>
+    </g>
+    <g id="ytick_51">
+     <g id="line2d_99"/>
+     <g id="text_99">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="1022.861117" transform="rotate(-0 606.475822 1022.861117)">Contact-distance spread</text>
+     </g>
+    </g>
+    <g id="ytick_52">
+     <g id="line2d_100"/>
+     <g id="text_100">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="993.889976" transform="rotate(-0 606.475822 993.889976)">Lateral slip</text>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="line2d_101"/>
+     <g id="text_101">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="964.918836" transform="rotate(-0 606.475822 964.918836)">Minimum C···C distance</text>
+     </g>
+    </g>
+    <g id="ytick_54">
+     <g id="line2d_102"/>
+     <g id="text_102">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="935.947695" transform="rotate(-0 606.475822 935.947695)">C···C contacts ≤ 3.4 Å</text>
+     </g>
+    </g>
+    <g id="ytick_55">
+     <g id="line2d_103"/>
+     <g id="text_103">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="906.992023" transform="rotate(-0 606.475822 906.992023)">Minimum overlap fraction</text>
+     </g>
+    </g>
+    <g id="ytick_56">
+     <g id="line2d_104"/>
+     <g id="text_104">
+      <text style="fill: #333333; font: 9px 'Calibri'; text-anchor: end" x="606.475822" y="878.005414" transform="rotate(-0 606.475822 878.005414)">Mean ten shortest C···C distances</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_66">
+    <path d="M 610.475822 1058.621742 
+L 764.097245 1058.621742 
+L 764.097245 1038.921367 
+L 610.475822 1038.921367 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 610.475822 1029.650602 
+L 792.579148 1029.650602 
+L 792.579148 1009.950226 
+L 610.475822 1009.950226 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 610.475822 1000.679461 
+L 808.3984 1000.679461 
+L 808.3984 980.979085 
+L 610.475822 980.979085 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 610.475822 971.70832 
+L 829.720636 971.70832 
+L 829.720636 952.007945 
+L 610.475822 952.007945 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 610.475822 942.73718 
+L 831.10087 942.73718 
+L 831.10087 923.036804 
+L 610.475822 923.036804 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 610.475822 913.766039 
+L 920.783245 913.766039 
+L 920.783245 894.065664 
+L 610.475822 894.065664 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 610.475822 884.794899 
+L 938.479378 884.794899 
+L 938.479378 865.094523 
+L 610.475822 865.094523 
+z
+" clip-path="url(#p4a1237d66f)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 610.475822 1068.298103 
+L 951.59952 1068.298103 
+" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_105">
+    <text style="fill: #222222; font: 700 11px 'Calibri'; text-anchor: start" x="566.129742" y="844.953902" transform="rotate(-0 566.129742 844.953902)">(h)</text>
+   </g>
+   <g id="text_106">
+    <text style="fill: #222222; font: 700 12px 'Calibri'; text-anchor: middle" x="781.037671" y="847.418162" transform="rotate(-0 781.037671 847.418162)">Corrected SOMO–SOMO energy</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p37c0e1a6e1">
+   <rect x="133.524062" y="62.629113" width="341.123697" height="212.879941"/>
+  </clipPath>
+  <clipPath id="pb4aaac3d02">
+   <rect x="610.475822" y="62.629113" width="341.123698" height="212.879941"/>
+  </clipPath>
+  <clipPath id="p5384418274">
+   <rect x="133.524062" y="326.870359" width="341.123697" height="212.879941"/>
+  </clipPath>
+  <clipPath id="p4a4754095e">
+   <rect x="610.475822" y="326.870359" width="341.123698" height="212.879941"/>
+  </clipPath>
+  <clipPath id="pfd057dd815">
+   <rect x="133.524062" y="591.111604" width="341.123697" height="212.879941"/>
+  </clipPath>
+  <clipPath id="pa9668cc8c5">
+   <rect x="610.475822" y="591.111604" width="341.123698" height="212.879941"/>
+  </clipPath>
+  <clipPath id="p2ffa5f7a96">
+   <rect x="133.524062" y="855.418162" width="341.123697" height="212.879941"/>
+  </clipPath>
+  <clipPath id="p4a1237d66f">
+   <rect x="610.475822" y="855.418162" width="341.123698" height="212.879941"/>
+  </clipPath>
+ </defs>
+</svg>

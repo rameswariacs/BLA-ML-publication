@@ -1,0 +1,173 @@
+{
+  "input": "/home/rb1820/BLA-ML/FODFT_4Target_NO_S2_FILTER_Run_20260707_164211/ALL_DIMERS_19descriptors_7targets_NO_S2_FILTER.csv",
+  "targets": [
+    "target_fodft_coupling_abs_ev",
+    "target_interaction_energy_kcal_mol",
+    "target_frontier_gap_ev",
+    "target_somo_somo_elst_corrected_signed_kcal_mol"
+  ],
+  "features": [
+    "bla_fragment_mean",
+    "contact_region_bla_mean",
+    "contact_min_cc_distance",
+    "stack_interplane_distance",
+    "stack_lateral_slip",
+    "stack_plane_normal_angle_deg",
+    "contact_interfragment_distance_std",
+    "projected_pi_overlap_area",
+    "projected_pi_overlap_fraction_min",
+    "pi_projected_area_mean",
+    "n_interfragment_c_contacts_3p4",
+    "n_interfragment_c_contacts_3p6",
+    "n_interfragment_c_contacts_4p0",
+    "mean_top10_closest_c_distances",
+    "contact_density_3p6_per_overlap_area",
+    "pi_projected_area_ratio_min_over_max",
+    "delta_overlap_fraction",
+    "delta_contact_atoms_3p4",
+    "delta_contact_region_bla"
+  ],
+  "feature_group": "core15_plus_asymmetry19",
+  "best_models": {
+    "target_fodft_coupling_abs_ev": {
+      "model": "extra_trees",
+      "features": [
+        "bla_fragment_mean",
+        "contact_region_bla_mean",
+        "contact_min_cc_distance",
+        "stack_interplane_distance",
+        "stack_lateral_slip",
+        "stack_plane_normal_angle_deg",
+        "contact_interfragment_distance_std",
+        "projected_pi_overlap_area",
+        "projected_pi_overlap_fraction_min",
+        "pi_projected_area_mean",
+        "n_interfragment_c_contacts_3p4",
+        "n_interfragment_c_contacts_3p6",
+        "n_interfragment_c_contacts_4p0",
+        "mean_top10_closest_c_distances",
+        "contact_density_3p6_per_overlap_area",
+        "pi_projected_area_ratio_min_over_max",
+        "delta_overlap_fraction",
+        "delta_contact_atoms_3p4",
+        "delta_contact_region_bla"
+      ],
+      "cv_metrics": {
+        "target": "target_fodft_coupling_abs_ev",
+        "model_family": "extra_trees",
+        "model": "extra_trees",
+        "feature_group": "core15_plus_asymmetry19",
+        "n_samples": 2582,
+        "n_features": 19,
+        "mae": 0.035422711872298146,
+        "rmse": 0.0537601573746064,
+        "r2": 0.9410695793984942
+      }
+    },
+    "target_interaction_energy_kcal_mol": {
+      "model": "extra_trees",
+      "features": [
+        "bla_fragment_mean",
+        "contact_region_bla_mean",
+        "contact_min_cc_distance",
+        "stack_interplane_distance",
+        "stack_lateral_slip",
+        "stack_plane_normal_angle_deg",
+        "contact_interfragment_distance_std",
+        "projected_pi_overlap_area",
+        "projected_pi_overlap_fraction_min",
+        "pi_projected_area_mean",
+        "n_interfragment_c_contacts_3p4",
+        "n_interfragment_c_contacts_3p6",
+        "n_interfragment_c_contacts_4p0",
+        "mean_top10_closest_c_distances",
+        "contact_density_3p6_per_overlap_area",
+        "pi_projected_area_ratio_min_over_max",
+        "delta_overlap_fraction",
+        "delta_contact_atoms_3p4",
+        "delta_contact_region_bla"
+      ],
+      "cv_metrics": {
+        "target": "target_interaction_energy_kcal_mol",
+        "model_family": "extra_trees",
+        "model": "extra_trees",
+        "feature_group": "core15_plus_asymmetry19",
+        "n_samples": 2582,
+        "n_features": 19,
+        "mae": 0.7724543506053734,
+        "rmse": 1.1344211568610467,
+        "r2": 0.9461970677405317
+      }
+    },
+    "target_frontier_gap_ev": {
+      "model": "extra_trees",
+      "features": [
+        "bla_fragment_mean",
+        "contact_region_bla_mean",
+        "contact_min_cc_distance",
+        "stack_interplane_distance",
+        "stack_lateral_slip",
+        "stack_plane_normal_angle_deg",
+        "contact_interfragment_distance_std",
+        "projected_pi_overlap_area",
+        "projected_pi_overlap_fraction_min",
+        "pi_projected_area_mean",
+        "n_interfragment_c_contacts_3p4",
+        "n_interfragment_c_contacts_3p6",
+        "n_interfragment_c_contacts_4p0",
+        "mean_top10_closest_c_distances",
+        "contact_density_3p6_per_overlap_area",
+        "pi_projected_area_ratio_min_over_max",
+        "delta_overlap_fraction",
+        "delta_contact_atoms_3p4",
+        "delta_contact_region_bla"
+      ],
+      "cv_metrics": {
+        "target": "target_frontier_gap_ev",
+        "model_family": "extra_trees",
+        "model": "extra_trees",
+        "feature_group": "core15_plus_asymmetry19",
+        "n_samples": 2582,
+        "n_features": 19,
+        "mae": 0.035974096395928086,
+        "rmse": 0.05522548625782613,
+        "r2": 0.9769062205965098
+      }
+    },
+    "target_somo_somo_elst_corrected_signed_kcal_mol": {
+      "model": "extra_trees",
+      "features": [
+        "bla_fragment_mean",
+        "contact_region_bla_mean",
+        "contact_min_cc_distance",
+        "stack_interplane_distance",
+        "stack_lateral_slip",
+        "stack_plane_normal_angle_deg",
+        "contact_interfragment_distance_std",
+        "projected_pi_overlap_area",
+        "projected_pi_overlap_fraction_min",
+        "pi_projected_area_mean",
+        "n_interfragment_c_contacts_3p4",
+        "n_interfragment_c_contacts_3p6",
+        "n_interfragment_c_contacts_4p0",
+        "mean_top10_closest_c_distances",
+        "contact_density_3p6_per_overlap_area",
+        "pi_projected_area_ratio_min_over_max",
+        "delta_overlap_fraction",
+        "delta_contact_atoms_3p4",
+        "delta_contact_region_bla"
+      ],
+      "cv_metrics": {
+        "target": "target_somo_somo_elst_corrected_signed_kcal_mol",
+        "model_family": "extra_trees",
+        "model": "extra_trees",
+        "feature_group": "core15_plus_asymmetry19",
+        "n_samples": 2582,
+        "n_features": 19,
+        "mae": 0.5194738630295375,
+        "rmse": 1.0280747357241957,
+        "r2": 0.9590871042625213
+      }
+    }
+  }
+}

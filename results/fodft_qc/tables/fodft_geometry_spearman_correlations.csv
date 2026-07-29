@@ -1,0 +1,37 @@
+system,descriptor,script_column,n,spearman_rho
+All systems,Interplane distance,stack_interplane_distance,2582,-0.4568748313906337
+All systems,Lateral displacement,stack_lateral_slip,2582,-0.33195283841447204
+All systems,Projected pi-overlap area,projected_pi_overlap_area,2582,0.2645829848805431
+All systems,Minimum overlap fraction,projected_pi_overlap_fraction_min,2582,0.33806534035299735
+All systems,Short C...C contacts,n_interfragment_c_contacts_3p4,2582,0.6068411671279449
+All systems,Shortest C...C distance,contact_min_cc_distance,2582,-0.8394050802648719
+Phenalenyl,Interplane distance,stack_interplane_distance,252,-0.3835521831364547
+Phenalenyl,Lateral displacement,stack_lateral_slip,252,-0.5897419169548045
+Phenalenyl,Projected pi-overlap area,projected_pi_overlap_area,252,0.5983294891603465
+Phenalenyl,Minimum overlap fraction,projected_pi_overlap_fraction_min,252,0.5986519829561154
+Phenalenyl,Short C...C contacts,n_interfragment_c_contacts_3p4,252,0.7608101872276942
+Phenalenyl,Shortest C...C distance,contact_min_cc_distance,252,-0.8587820747876178
+Olympicenyl,Interplane distance,stack_interplane_distance,532,-0.5998003722378736
+Olympicenyl,Lateral displacement,stack_lateral_slip,532,-0.419173669538109
+Olympicenyl,Projected pi-overlap area,projected_pi_overlap_area,532,0.46262756082006024
+Olympicenyl,Minimum overlap fraction,projected_pi_overlap_fraction_min,532,0.4563888719752138
+Olympicenyl,Short C...C contacts,n_interfragment_c_contacts_3p4,532,0.7220697520788111
+Olympicenyl,Shortest C...C distance,contact_min_cc_distance,532,-0.8049439590963927
+Fluorenyl,Interplane distance,stack_interplane_distance,367,-0.1569724082881952
+Fluorenyl,Lateral displacement,stack_lateral_slip,367,-0.6749683434291253
+Fluorenyl,Projected pi-overlap area,projected_pi_overlap_area,367,0.6884163842665432
+Fluorenyl,Minimum overlap fraction,projected_pi_overlap_fraction_min,367,0.6768911094642551
+Fluorenyl,Short C...C contacts,n_interfragment_c_contacts_3p4,367,0.8639880823834412
+Fluorenyl,Shortest C...C distance,contact_min_cc_distance,367,-0.9030672886632576
+CPBP,Interplane distance,stack_interplane_distance,793,-0.4693031191462046
+CPBP,Lateral displacement,stack_lateral_slip,793,0.021200358876371596
+CPBP,Projected pi-overlap area,projected_pi_overlap_area,793,-0.010519541985041427
+CPBP,Minimum overlap fraction,projected_pi_overlap_fraction_min,793,-0.024025894272002378
+CPBP,Short C...C contacts,n_interfragment_c_contacts_3p4,793,0.7202885116474542
+CPBP,Shortest C...C distance,contact_min_cc_distance,793,-0.7370528880625093
+Phenalenyl-olympicenyl,Interplane distance,stack_interplane_distance,638,-0.6484595910114539
+Phenalenyl-olympicenyl,Lateral displacement,stack_lateral_slip,638,-0.2144088017258072
+Phenalenyl-olympicenyl,Projected pi-overlap area,projected_pi_overlap_area,638,0.3039057657884021
+Phenalenyl-olympicenyl,Minimum overlap fraction,projected_pi_overlap_fraction_min,638,0.2880572191906873
+Phenalenyl-olympicenyl,Short C...C contacts,n_interfragment_c_contacts_3p4,638,0.7383059883846191
+Phenalenyl-olympicenyl,Shortest C...C distance,contact_min_cc_distance,638,-0.856015443193685

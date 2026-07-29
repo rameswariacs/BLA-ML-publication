@@ -1,0 +1,71 @@
+{
+  "input": "/home/rb1820/BLA-ML/FODFT_4Target_NO_S2_FILTER_Run_20260707_164211/ALL_DIMERS_19descriptors_7targets_BS_filtered.csv",
+  "output": "/home/rb1820/BLA-ML/FODFT_4Target_NO_S2_FILTER_Run_20260707_164211/GeometryClustered_ExternalTest_FODFT_4Targets",
+  "n_structures": 2582,
+  "features": [
+    "bla_fragment_mean",
+    "contact_region_bla_mean",
+    "contact_min_cc_distance",
+    "stack_interplane_distance",
+    "stack_lateral_slip",
+    "stack_plane_normal_angle_deg",
+    "contact_interfragment_distance_std",
+    "projected_pi_overlap_area",
+    "projected_pi_overlap_fraction_min",
+    "pi_projected_area_mean",
+    "n_interfragment_c_contacts_3p4",
+    "n_interfragment_c_contacts_3p6",
+    "n_interfragment_c_contacts_4p0",
+    "mean_top10_closest_c_distances",
+    "contact_density_3p6_per_overlap_area",
+    "pi_projected_area_ratio_min_over_max",
+    "delta_overlap_fraction",
+    "delta_contact_atoms_3p4",
+    "delta_contact_region_bla"
+  ],
+  "targets": [
+    "target_fodft_coupling_abs_ev",
+    "target_interaction_energy_kcal_mol",
+    "target_frontier_gap_ev",
+    "target_somo_somo_elst_corrected_signed_kcal_mol"
+  ],
+  "systems": {
+    "CPBP": 793,
+    "fluorenyl": 367,
+    "olympicenyl": 532,
+    "phenalenyl": 252,
+    "phenalenyl_olympicenyl": 638
+  },
+  "clustering": {
+    "method": "Ward agglomerative clustering",
+    "performed_within_system": true,
+    "target_cluster_size": 25,
+    "uses_target_values": false
+  },
+  "split": {
+    "target_fractions": {
+      "train": 0.7,
+      "validation": 0.15,
+      "test": 0.15
+    },
+    "cluster_exclusive": true,
+    "random_seed": 42
+  },
+  "models": {
+    "extra_trees": {
+      "n_estimators": 500,
+      "min_samples_leaf": 2
+    },
+    "mlp": {
+      "architecture": [
+        19,
+        128,
+        64,
+        32,
+        1
+      ],
+      "alpha": 0.001
+    }
+  },
+  "test_set_not_used_for_tuning": true
+}

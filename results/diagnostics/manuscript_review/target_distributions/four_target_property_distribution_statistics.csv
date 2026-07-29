@@ -1,0 +1,5 @@
+target,script_column,n,p5,median,mean,p95,unit
+Fragment-orbital SOMO coupling,target_fodft_coupling_abs_ev,2582,0.0053056581503368744,0.1429878607530426,0.2168549153834772,0.6547956202730201,eV
+Spin-conserving frontier gap,target_frontier_gap_ev,2582,2.9264650000000003,3.4799,3.4424174283501254,4.08109,eV
+Dimer interaction energy,target_interaction_energy_kcal_mol,2582,-12.866508624291765,-4.329319459292549,-4.9936709649573245,2.3330608824109,kcal mol^{-1}
+Corrected SOMO-SOMO energy,target_somo_somo_elst_corrected_signed_kcal_mol,2582,-13.03890341781841,-0.5190619188404335,-2.719697609271278,0.36898983919295536,kcal mol^{-1}

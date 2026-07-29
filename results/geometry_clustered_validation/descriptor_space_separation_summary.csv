@@ -1,0 +1,3 @@
+scheme,n_test,mean_nearest_development_distance,median_nearest_development_distance,q05_nearest_development_distance,q95_nearest_development_distance,development_internal_nn_5pct_threshold,fraction_test_below_threshold
+random,388,0.6256167413266694,0.5231720424324862,0.13173557438034017,1.5561021561728703,0.1323633907443282,0.05412371134020619
+geometry_clustered,388,1.2481209799770492,1.1170528780820408,0.5369824789482325,2.183554033205338,0.12336126472214719,0.0

@@ -1,0 +1,56 @@
+{
+  "source": "/home/rb1820/BLA-ML/FODFT_4Target_NO_S2_FILTER_Run_20260707_164211",
+  "targets": [
+    "target_fodft_coupling_abs_ev",
+    "target_interaction_energy_kcal_mol",
+    "target_frontier_gap_ev",
+    "target_somo_somo_elst_corrected_signed_kcal_mol"
+  ],
+  "features": [
+    "bla_fragment_mean",
+    "contact_region_bla_mean",
+    "contact_min_cc_distance",
+    "stack_interplane_distance",
+    "stack_lateral_slip",
+    "stack_plane_normal_angle_deg",
+    "contact_interfragment_distance_std",
+    "projected_pi_overlap_area",
+    "projected_pi_overlap_fraction_min",
+    "pi_projected_area_mean",
+    "n_interfragment_c_contacts_3p4",
+    "n_interfragment_c_contacts_3p6",
+    "n_interfragment_c_contacts_4p0",
+    "mean_top10_closest_c_distances",
+    "contact_density_3p6_per_overlap_area",
+    "pi_projected_area_ratio_min_over_max",
+    "delta_overlap_fraction",
+    "delta_contact_atoms_3p4",
+    "delta_contact_region_bla"
+  ],
+  "architectures": [
+    "16",
+    "32",
+    "32-16",
+    "64-32",
+    "64-32-16",
+    "128-64-32",
+    "64-64-32-16"
+  ],
+  "alphas": [
+    0.0001,
+    0.001,
+    0.01
+  ],
+  "training_fractions": [
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "split_seed": 42,
+  "test_used_for_selection": false,
+  "cv": "5-fold StratifiedKFold by molecular system on train+validation pool",
+  "selection_rule": "one standard error; fewest parameters then strongest L2",
+  "n_architecture_cv_fits": 420,
+  "n_learning_curve_fits": 80
+}

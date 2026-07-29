@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Geometry-Based Machine Learning for pi-Stacked Radical Dimers"
+authors:
+  - family-names: "Bhattacharjee"
+    given-names: "Rameswar"
+date-released: "2026-07-29"
+license: "MIT"
+repository-code: "https://github.com/USER/REPOSITORY"
+preferred-citation:
+  type: article
+  title: "Geometry-Based Machine Learning for pi-Stacked Radical Dimers"
+  authors:
+    - family-names: "Bhattacharjee"
+      given-names: "Rameswar"
+  year: 2026
+  notes: "Update with final journal, DOI, and author list after publication."

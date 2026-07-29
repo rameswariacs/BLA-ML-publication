@@ -1,0 +1,24 @@
+{
+  "source_workflow": "/home/rb1820/BLA-ML/FODFT_4Target_NO_S2_FILTER_Run_20260707_164211",
+  "n_permutations_per_target_model": 500,
+  "n_total_runs": 4000,
+  "targets": [
+    "target_fodft_coupling_abs_ev",
+    "target_interaction_energy_kcal_mol",
+    "target_frontier_gap_ev",
+    "target_somo_somo_elst_corrected_signed_kcal_mol"
+  ],
+  "families": [
+    "extra_trees",
+    "mlp"
+  ],
+  "split_seed": 42,
+  "permutation_seed": 42,
+  "descriptor_matrix": "unchanged",
+  "outputs": [
+    "Y_RANDOMIZATION_ALL_500_RUNS.csv",
+    "Y_RANDOMIZATION_SUMMARY.csv",
+    "Y_RANDOMIZATION_REPORT.md",
+    "plots/"
+  ]
+}

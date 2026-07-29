@@ -1,0 +1,17 @@
+{
+  "n_total": 2601,
+  "n_numerical_pass": 2601,
+  "n_numerical_flag": 0,
+  "n_high_tfo_review_gt_5ev": 0,
+  "maximum_norm_deviation": 1.0436096431476471e-14,
+  "minimum_overlap_denominator": 0.9676776367686655,
+  "maximum_tfo_reconstruction_error_ev": 2.851885394505871e-15,
+  "maximum_splitting_reconstruction_error_ev": 7.026345651139909e-12,
+  "thresholds": {
+    "orbital_norm_deviation": 1e-06,
+    "minimum_1_minus_s_squared": 0.1,
+    "maximum_abs_fock_diagonal_hartree": 2.0,
+    "maximum_reconstruction_error_ev": 1e-06,
+    "high_tfo_manual_review_ev_not_exclusion": 5.0
+  }
+}

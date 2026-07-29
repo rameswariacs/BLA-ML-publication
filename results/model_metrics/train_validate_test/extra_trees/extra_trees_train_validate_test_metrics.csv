@@ -1,0 +1,17 @@
+family,target,stage,feature_group,model,n_train,n_validation,n_test,n_features,mae,rmse,r2,n,mae_ci95_low,mae_ci95_high,rmse_ci95_low,rmse_ci95_high,r2_ci95_low,r2_ci95_high
+extra_trees,target_fodft_coupling_abs_ev,validation_selection,core15_plus_asymmetry19,extra_trees,1807.0,387.0,388.0,19,0.0365824446417503,0.05447857583295169,0.9468885290287458,,,,,,,
+extra_trees,target_fodft_coupling_abs_ev,selected_train,core15_plus_asymmetry19,extra_trees,,,,19,0.007647869492006914,0.013538895894481933,0.9960853016479836,1807.0,,,,,,
+extra_trees,target_fodft_coupling_abs_ev,selected_validation,core15_plus_asymmetry19,extra_trees,,,,19,0.007291917084815531,0.011844012025779805,0.9974896486056023,387.0,,,,,,
+extra_trees,target_fodft_coupling_abs_ev,selected_test,core15_plus_asymmetry19,extra_trees,,,,19,0.033607524508770525,0.04748919045486881,0.9565113432124314,388.0,0.03036225509471704,0.03686893422968496,0.04238864334649576,0.05253537926716991,0.9416746465600635,0.9670708972083651
+extra_trees,target_interaction_energy_kcal_mol,validation_selection,core15_plus_asymmetry19,extra_trees,1807.0,387.0,388.0,19,0.7901238629979683,1.2252455784401717,0.9365442394138197,,,,,,,
+extra_trees,target_interaction_energy_kcal_mol,selected_train,core15_plus_asymmetry19,extra_trees,,,,19,0.1668032162473718,0.276073871678361,0.9967969731108667,1807.0,,,,,,
+extra_trees,target_interaction_energy_kcal_mol,selected_validation,core15_plus_asymmetry19,extra_trees,,,,19,0.16809175837060028,0.29272208595247573,0.9963781058935376,387.0,,,,,,
+extra_trees,target_interaction_energy_kcal_mol,selected_test,core15_plus_asymmetry19,extra_trees,,,,19,0.8019651618876673,1.1810772587137333,0.9436445253459012,388.0,0.7186696671139433,0.8963080541373993,0.9978833711038968,1.4032661690425,0.9255186392063524,0.9580089717065559
+extra_trees,target_frontier_gap_ev,validation_selection,core15_plus_asymmetry19,extra_trees,1807.0,387.0,388.0,19,0.040003385874246386,0.06780699887332184,0.9671275130424664,,,,,,,
+extra_trees,target_frontier_gap_ev,selected_train,core15_plus_asymmetry19,extra_trees,,,,19,0.007606407426410259,0.012458178358677375,0.9988188856746071,1807.0,,,,,,
+extra_trees,target_frontier_gap_ev,selected_validation,core15_plus_asymmetry19,extra_trees,,,,19,0.008623537308970019,0.016974034783900378,0.9979400641714545,387.0,,,,,,
+extra_trees,target_frontier_gap_ev,selected_test,core15_plus_asymmetry19,extra_trees,,,,19,0.03637257161511995,0.05406198768333485,0.9770467475745387,388.0,0.032852193704896546,0.04055726659042074,0.045652209409764596,0.06518596541124827,0.9663304631296784,0.9838592678732854
+extra_trees,target_somo_somo_elst_corrected_signed_kcal_mol,validation_selection,core15_plus_asymmetry19,extra_trees,1807.0,387.0,388.0,19,0.588326832370696,1.1649092134103325,0.9621232815759361,,,,,,,
+extra_trees,target_somo_somo_elst_corrected_signed_kcal_mol,selected_train,core15_plus_asymmetry19,extra_trees,,,,19,0.11581155458296166,0.25400240144947095,0.997200848720667,1807.0,,,,,,
+extra_trees,target_somo_somo_elst_corrected_signed_kcal_mol,selected_validation,core15_plus_asymmetry19,extra_trees,,,,19,0.1254759555044319,0.30567969858405464,0.9973919171823669,387.0,,,,,,
+extra_trees,target_somo_somo_elst_corrected_signed_kcal_mol,selected_test,core15_plus_asymmetry19,extra_trees,,,,19,0.5470218944409522,1.018426215347715,0.9635770392724777,388.0,0.4679891713502307,0.6350220469452813,0.8348268041833375,1.219296349733859,0.9437063728147478,0.9763439125966641
