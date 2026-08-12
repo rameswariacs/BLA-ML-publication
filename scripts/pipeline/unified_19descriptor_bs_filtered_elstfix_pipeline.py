@@ -6,7 +6,6 @@ All flat dimers are represented by the same 19 descriptors:
 descriptors.  Triplet-derived targets are added only for rows where the triplet
 output exists and terminated normally. The final <S^2> value is parsed directly
 from each original broken-symmetry ORCA output and retained as a diagnostic.
-No structures are removed by an <S^2> criterion in this no-filter workflow.
 """
 
 from __future__ import annotations
