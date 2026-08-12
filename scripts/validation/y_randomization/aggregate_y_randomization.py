@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aggregate Y-randomization tasks and create manuscript/SI summaries."""
+"""Aggregate Y-randomization tasks and create summaries."""
 
 from __future__ import annotations
 
