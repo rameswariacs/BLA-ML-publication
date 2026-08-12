@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Geometry-clustered external validation for the four manuscript targets.
 
-The 19-descriptor no-S2-filter target table is read without modification.
+The 19-descriptor table is read without modification.
 Structures are clustered separately within each represented molecular system using
 only median-imputed, standardized descriptors. Entire geometry clusters are assigned
 to train, validation, or test, preventing close members of one descriptor-space
