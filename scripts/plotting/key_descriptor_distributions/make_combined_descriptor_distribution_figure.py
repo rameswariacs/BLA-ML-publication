@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 """Make a combined descriptor-distribution figure for the BLA-ML SI.
-
-The figure is written as editable SVG using only pandas/numpy and standard
-Python string output. This avoids local font-cache issues while keeping the
-graphic fully editable in Illustrator, Inkscape, or PowerPoint.
 """
 
 from __future__ import annotations
