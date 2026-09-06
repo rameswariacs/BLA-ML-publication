@@ -1,0 +1,17 @@
+target,group,n_descriptors,impurity_share,permutation_share
+target_fodft_coupling_abs_ev,Global pi-surface,5,0.09325321131490437,0.2674604238325791
+target_fodft_coupling_abs_ev,Stacking,3,0.05482788723505194,0.14700154297529508
+target_fodft_coupling_abs_ev,Local Contacts,8,0.8318641620492702,0.4772875402491857
+target_fodft_coupling_abs_ev,BLA & Asymmetry,3,0.020054739400773618,0.10825049294294017
+target_frontier_gap_ev,Global pi-surface,5,0.7444155208829057,0.4901404762100595
+target_frontier_gap_ev,Stacking,3,0.021158055605893615,0.14422508474862322
+target_frontier_gap_ev,Local Contacts,8,0.07007846256261656,0.2685318418043066
+target_frontier_gap_ev,BLA & Asymmetry,3,0.164347960948584,0.0971025972370106
+target_interaction_energy_kcal_mol,Global pi-surface,5,0.5748696569158344,0.23962788898570608
+target_interaction_energy_kcal_mol,Stacking,3,0.06763314589114665,0.21081842231451636
+target_interaction_energy_kcal_mol,Local Contacts,8,0.251511206445117,0.44100655253629906
+target_interaction_energy_kcal_mol,BLA & Asymmetry,3,0.10598599074790198,0.10854713616347855
+target_somo_somo_elst_corrected_signed_kcal_mol,Global pi-surface,5,0.11744379525955202,0.29036171296937197
+target_somo_somo_elst_corrected_signed_kcal_mol,Stacking,3,0.07304993244039967,0.1760052199985538
+target_somo_somo_elst_corrected_signed_kcal_mol,Local Contacts,8,0.7843984921122418,0.46375689354337174
+target_somo_somo_elst_corrected_signed_kcal_mol,BLA & Asymmetry,3,0.025107780187806523,0.06987617348870248

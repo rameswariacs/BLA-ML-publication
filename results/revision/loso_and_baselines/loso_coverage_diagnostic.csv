@@ -1,0 +1,6 @@
+held_out_system,n,frac_rows_outside_descriptor_range,n_descriptors_no_overlap,descriptors_no_overlap,frac_target_outside__fodft_coupling_abs_ev,frac_target_outside__frontier_gap_ev,frac_target_outside__interaction_energy_kcal_mol,frac_target_outside__somo_somo_elst_corrected_signed_kcal_mol
+CPBP,793,1.0,1,pi_projected_area_mean,0.0,0.9672131147540983,0.0025220680958385876,0.007566204287515763
+fluorenyl,367,0.14168937329700274,0,,0.005449591280653951,0.0,0.005449591280653951,0.0
+olympicenyl,532,0.009398496240601503,0,,0.0,0.0,0.0,0.0
+phenalenyl,252,0.4365079365079365,0,,0.007936507936507936,0.023809523809523808,0.0,0.007936507936507936
+phenalenyl_olympicenyl,638,1.0,1,pi_projected_area_ratio_min_over_max,0.0,0.0,0.0,0.0
