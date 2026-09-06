@@ -17,6 +17,39 @@ The workflow relates 19 geometry-derived descriptors to DFT-derived electronic p
 - `figures/`: publication and supporting-information figures in vector/PDF/PNG formats.
 - `docs/`: descriptor definitions and reproducibility notes.
 
+
+## Revision analyses
+
+Scripts and outputs added during revision, in response to referee comments:
+
+- `scripts/validation/revision_analyses.py`: leave-one-system-out validation with
+  a descriptor-coverage diagnostic, a ridge-regression baseline, and permutation
+  importance for the Extra Trees model, including grouped permutation of the
+  correlated contact-count descriptors.
+- `scripts/validation/baseline_analysis.py`: system-mean baseline and the
+  between- and within-family variance decomposition.
+- `scripts/validation/make_loso_figure.py`: draws Figure S15.
+- `scripts/feature_importance/correlated_importance_analysis.py`: descriptor
+  correlation matrix, within-group importance, and importance summed over the
+  four descriptor classes.
+- `scripts/feature_importance/plot_figure6_manuscript_symbols.py`: draws
+  manuscript Figure 6.
+- `scripts/charge_benchmark/`: benchmark of the Eq. (7) electrostatic correction
+  against Loewdin, Hirshfeld and CHELPG charges on 22 selected structures.
+- `scripts/slurm/`: Slurm submission scripts used to run these analyses.
+
+Outputs are under `results/revision/`. The 22 benchmark structures and their
+selection strata are in `data/processed/charge_benchmark_structures.csv`. Raw
+ORCA outputs from the charge benchmark are not included, for the same reason as
+the rest of the workflow; `results/revision/charge_benchmark/charges_by_scheme.csv`
+contains every value reported in the Supporting Information.
+
+Figures named to match the paper are at the top level of `figures/`.
+`figures/Figure6.pdf` is the published version of Figure 6, using permutation
+importance for both models. The earlier version under
+`figures/feature_importance/top7/`, which used impurity importance for the Extra
+Trees panels, is retained for reference.
+
 ## Main Data File
 
 The main modeling table is:
@@ -40,7 +73,7 @@ The main workflow scripts were originally run on an HPC system and contain absol
 
 ## Software
 
-The analysis used Python with NumPy, pandas, SciPy, scikit-learn, Matplotlib, seaborn, and joblib. ORCA output and ORCA utility-generated JSON files were used for fragment-orbital coupling analysis. See `requirements.txt` and the Supporting Information for details.
+The analysis used Python with NumPy, pandas, SciPy, scikit-learn, Matplotlib, seaborn, and joblib. ORCA output and ORCA utility-generated JSON files were used for fragment-orbital coupling analysis. Package versions are pinned in requirements.txt. See also the Supporting Information for details.
 
 ## Licensing
 

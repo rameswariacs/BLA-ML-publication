@@ -1,7 +1,18 @@
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
+# Python 3.11.15
+#
+# Versions used for the analyses reported in the manuscript and Supporting
+# Information, including the leave-one-system-out validation, the ridge and
+# system-mean baselines, the permutation-importance calculations and the
+# charge-scheme benchmark.
+
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.8.0
+joblib==1.5.3
+matplotlib==3.8.0
+
+# seaborn is used only by the descriptor and target distribution plotting
+# scripts in scripts/plotting/, which were run in a separate environment. It is
+# not required for the modelling, validation or feature-importance analyses.
 seaborn
-joblib
