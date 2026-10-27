@@ -468,7 +468,7 @@ def main() -> None:
         "split_seed": core.RANDOM_STATE,
         "selection_data": "combined train+validation only",
         "test_used_for_selection": False,
-        "cv": "5-fold StratifiedKFold by molecular system",
+        "cv": "5-fold StratifiedKFold, stratified by molecular system (not grouped)",
         "selection_rule": "one standard error; largest leaf size then fewest trees",
         "n_cv_fits": int(len(folds)),
     }

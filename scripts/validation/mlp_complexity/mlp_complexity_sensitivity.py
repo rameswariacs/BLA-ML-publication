@@ -771,7 +771,7 @@ def main() -> None:
         "training_fractions": TRAIN_FRACTIONS,
         "split_seed": core.RANDOM_STATE,
         "test_used_for_selection": False,
-        "cv": "5-fold StratifiedKFold by molecular system on train+validation pool",
+        "cv": "5-fold StratifiedKFold, stratified by molecular system (not grouped) on train+validation pool",
         "selection_rule": "one standard error; fewest parameters then strongest L2",
         "n_architecture_cv_fits": int(len(folds)),
         "n_learning_curve_fits": int(len(learning_folds)),

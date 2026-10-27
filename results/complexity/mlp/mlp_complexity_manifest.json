@@ -49,7 +49,7 @@
   ],
   "split_seed": 42,
   "test_used_for_selection": false,
-  "cv": "5-fold StratifiedKFold by molecular system on train+validation pool",
+  "cv": "5-fold StratifiedKFold, stratified by molecular system (not grouped) on train+validation pool",
   "selection_rule": "one standard error; fewest parameters then strongest L2",
   "n_architecture_cv_fits": 420,
   "n_learning_curve_fits": 80
