@@ -1,17 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript."
+message: "If you use this repository, please cite the associated article."
 title: "Geometry-Based Machine Learning for pi-Stacked Radical Dimers"
 authors:
   - family-names: "Bhattacharjee"
     given-names: "Rameswar"
+  - family-names: "Lischka"
+    given-names: "Hans"
+  - family-names: "Kertesz"
+    given-names: "Miklos"
 date-released: "2026-07-29"
 license: "MIT"
-repository-code: "https://github.com/USER/REPOSITORY"
+repository-code: "https://github.com/rameswariacs/BLA-ML-publication"
 preferred-citation:
   type: article
-  title: "Geometry-Based Machine Learning for pi-Stacked Radical Dimers"
+  title: "How Molecular Packing Controls Electronic Structure in π-Stacked Radical Dimers: A DFT and Descriptor-Based Machine-Learning Study"
   authors:
     - family-names: "Bhattacharjee"
       given-names: "Rameswar"
+    - family-names: "Lischka"
+      given-names: "Hans"
+    - family-names: "Kertesz"
+      given-names: "Miklos"
+  journal: "Journal of Chemical Information and Modeling"
   year: 2026
-  notes: "Update with final journal, DOI, and author list after publication."
+  doi: "10.1021/acs.jcim.6c02583"
+  url: "https://doi.org/10.1021/acs.jcim.6c02583"
