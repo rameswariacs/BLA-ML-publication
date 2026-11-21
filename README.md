@@ -1,6 +1,6 @@
 # Geometry-Based Machine Learning for pi-Stacked Radical Dimers
 
-This repository contains the processed data, Python scripts, validation outputs, and publication figures associated with a descriptor-based machine-learning study of pi-stacked radical dimers.
+This repository contains the processed data, Python scripts, validation outputs, and publication figures associated with a descriptor-based machine-learning study of pi-stacked radical dimers, published in the *Journal of Chemical Information and Modeling* (2026; [doi:10.1021/acs.jcim.6c02583](https://doi.org/10.1021/acs.jcim.6c02583)).
 
 The workflow relates 19 geometry-derived descriptors to DFT-derived electronic properties using Extra Trees regression and descriptor-based multilayer perceptron (MLP) models.
 
@@ -81,4 +81,8 @@ Code in this repository is released under the MIT License. Processed data, descr
 
 ## Citation
 
-If you use this workflow, data, or figures, please cite the associated manuscript when available. A provisional `CITATION.cff` file is included and should be updated with the final publication details.
+If you use this workflow, data, or figures, please cite:
+
+Bhattacharjee, R.; Lischka, H.; Kertesz, M. How Molecular Packing Controls Electronic Structure in π-Stacked Radical Dimers: A DFT and Descriptor-Based Machine-Learning Study. *J. Chem. Inf. Model.* **2026**. [doi:10.1021/acs.jcim.6c02583](https://doi.org/10.1021/acs.jcim.6c02583)
+
+Citation metadata is also provided in `CITATION.cff`.
